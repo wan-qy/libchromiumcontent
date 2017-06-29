@@ -9,3 +9,4 @@ proprietary_codecs = true
 is_component_ffmpeg = true
 ffmpeg_branding = "Chrome"
 use_gold = false
+clang_use_chrome_plugins = false
